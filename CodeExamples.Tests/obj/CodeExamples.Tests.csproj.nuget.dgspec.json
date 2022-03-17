@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples.Tests\\CodeExamples.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples.Tests\\CodeExamples.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples.Tests\\CodeExamples.Tests.csproj",
+        "projectName": "CodeExamples.Tests",
+        "projectPath": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples.Tests\\CodeExamples.Tests.csproj",
+        "packagesPath": "C:\\Users\\Katya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Katya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples\\CodeExamples.csproj": {
+                "projectPath": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples\\CodeExamples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples\\CodeExamples.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples\\CodeExamples.csproj",
+        "projectName": "CodeExamples",
+        "projectPath": "C:\\Users\\Katya\\source\\repos\\CodeExamples\\CodeExamples\\CodeExamples.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
